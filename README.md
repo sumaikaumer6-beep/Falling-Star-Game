@@ -13,3 +13,4 @@ A Pygame game where you catch falling stars and make a high score
 `pip install pygame`
 3. Run the game:
 `python main.py`
+4.Leaderboard uses Django REST API:[https://github.com/sumaikaumer6-beep/django-leaderboard-api]
