@@ -56,4 +56,3 @@ The game uses a separate backend API project for handling backend functionality 
 
 The objective of the game is to control the player catch falling stars. Try to achieve the highest possible score!
 
-## 📚 What I Learned
